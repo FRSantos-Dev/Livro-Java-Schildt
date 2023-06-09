@@ -6,6 +6,6 @@ public class GalToLit {
         gallons = 10; // começa com 10 galões
         liters = gallons * 3.7854; // converte para litros
     
-        System.out.println(gallons + " gallons is " + liters + " liters.");
+        System.out.println(gallons + " galões são " + liters + " litros.");
     }
 }
