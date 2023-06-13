@@ -15,6 +15,7 @@ public class Guess3 {
             // a nested if
             if(ch < answer) System.out.println("too low");
             else System.out.println("too high");
+
         }
     }
 }
